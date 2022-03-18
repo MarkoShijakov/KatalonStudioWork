@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Search input fld</name>
+   <tag></tag>
+   <elementGuidId>31b0f957-62c8-4bd8-9200-2f30cdfbf825</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='typeahead-input']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.input-overlay</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-overlay</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>qaid</name>
+      <type>Main</type>
+      <value>typeahead-overlay</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/dtm-vehicle-search-results-page[1]/div[@class=&quot;vsr-outer-container&quot;]/div[@class=&quot;vsr-inner-container&quot;]/div[@class=&quot;filter-outer&quot;]/div[@class=&quot;top-header&quot;]/div[@class=&quot;top-location-bar&quot;]/dtm-vsr-count-location[1]/div[@class=&quot;top-location-container&quot;]/dtm-top-location-bar[1]/div[@class=&quot;top-location-bar light-styling&quot;]/div[@class=&quot;right-side non-geo-located&quot;]/div[@class=&quot;input-overlay&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-section']/dtm-vehicle-search-results-page/div/div/div/div/div/dtm-vsr-count-location/div/dtm-top-location-bar/div/div[2]/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dtm-top-location-bar/div/div[2]/div</value>
+   </webElementXpaths>
+</WebElementEntity>

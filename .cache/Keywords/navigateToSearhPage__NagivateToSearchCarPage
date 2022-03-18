@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "75EC31CE346FA906C0CCBC0145FA8EAE",
+  "keywordClasses": [
+    {
+      "name": "navigateToSearhPage.NagivateUsToSearchCarPage",
+      "keywordMethods": [
+        {
+          "name": "goToSearchCarsPage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

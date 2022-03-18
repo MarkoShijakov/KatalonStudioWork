@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the home page contains following items:
+- Option to go back to the home page by clicking on the DriveTime logo and name in the upper left corner.
+- Option to search for cars.
+- Option to find a dealership.
+- Option to get approved for down payment</description>
+   <name>Verify that Home page contains specific items</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68c07d75-d316-4fcc-9030-fa71bb652da7</testCaseGuid>
+</TestCaseEntity>

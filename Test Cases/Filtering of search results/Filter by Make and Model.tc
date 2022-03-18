@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that filter for 'Make &amp; Model' works</description>
+   <name>Filter by Make and Model</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d530d076-21e3-4063-968f-f89e0b5733f7</testCaseGuid>
+</TestCaseEntity>

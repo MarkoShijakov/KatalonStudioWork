@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that find dealership page contains following items:
+- “Dealership near me” label.
+- Option to search for dealerships by State, City or ZIP code.</description>
+   <name>Verify presence of elements on the delaership page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf2534c7-5575-4dd5-b3e4-3f460c564193</testCaseGuid>
+</TestCaseEntity>

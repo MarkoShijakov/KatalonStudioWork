@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that cars can be searched by state</description>
+   <name>Search cars by State</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7cb3a35-674a-441e-ba30-2d2f6ab50e1e</testCaseGuid>
+</TestCaseEntity>

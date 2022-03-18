@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that get approved page contains following items:
+- Option to enter first name
+- Option to enter last name
+- Option to enter phone number
+- Option to enter ZIP code</description>
+   <name>Verify presence of elements on the get approved page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aea2f384-e27f-4f4d-9797-21965e0a1bc3</testCaseGuid>
+</TestCaseEntity>

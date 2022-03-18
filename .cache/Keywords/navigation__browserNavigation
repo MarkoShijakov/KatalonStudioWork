@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "156F82B1D3341ADE6DF777BD0E7B5D39",
+  "keywordClasses": [
+    {
+      "name": "navigation.browserNavigation",
+      "keywordMethods": [
+        {
+          "name": "goToGetApprovedPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "goToSearchCarsPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "goToFindDealershipPage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

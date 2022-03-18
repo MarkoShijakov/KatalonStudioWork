@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Slider lower</name>
+   <tag></tag>
+   <elementGuidId>9ab9af32-a624-403d-beaf-c600815459eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class=&quot;noUi-handle noUi-handle-lower&quot;])[1]
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.noUi-touch-area</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noUi-touch-area</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/dtm-vehicle-search-results-page[1]/div[@class=&quot;vsr-outer-container&quot;]/div[@class=&quot;vsr-inner-container&quot;]/div[@class=&quot;filter-outer filter-outer-open&quot;]/div[@class=&quot;top-header&quot;]/div[@class=&quot;filter-sort-bar&quot;]/div[@class=&quot;vsr-filter-nav&quot;]/dtm-vsr-dropdown[1]/div[@class=&quot;dropdown-drawer dropdown-is-open&quot;]/div[@class=&quot;dropdown-inner-container&quot;]/div[1]/dtm-vsr-filters[@class=&quot;filter-slot&quot;]/div[@class=&quot;filter-list&quot;]/dtm-fly-out-outer[1]/div[@class=&quot;fly-out-outer-list overlay-open&quot;]/div[@class=&quot;fly-out-list&quot;]/dtm-fly-out-collapsible[@class=&quot;filter-fly-out&quot;]/div[@class=&quot;filter-outer active-flyout bordered-filter&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;expanded-content&quot;]/dtm-vsr-price-filter[1]/div[@class=&quot;price-filter-container&quot;]/dtm-range-slider[1]/div[@class=&quot;slider-content&quot;]/div[@class=&quot;slider-area&quot;]/div[@class=&quot;slider noUi-target noUi-ltr noUi-horizontal&quot;]/div[@class=&quot;noUi-base&quot;]/div[@class=&quot;noUi-origin&quot;]/div[@class=&quot;noUi-handle noUi-handle-lower&quot;]/div[@class=&quot;noUi-touch-area&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-section']/dtm-vehicle-search-results-page/div/div/div/div/div[2]/div/dtm-vsr-dropdown/div[2]/div/div/dtm-vsr-filters/div/dtm-fly-out-outer/div/div[2]/dtm-fly-out-collapsible[3]/div/div[2]/div[2]/dtm-vsr-price-filter/div/dtm-range-slider/div/div/div/div/div[2]/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>
